@@ -12,4 +12,8 @@ class Test
     {
         echo "hello php ";
     }
+    public function testCommit()
+    {
+        echo "test";
+    }
 }
